@@ -1,0 +1,14 @@
+# Config HOSNODE
+# Service Port
+PORT=3002
+
+# Mysql Database Connection db
+MYSQL_HOST=localhost
+MYSQL_USERNAME=username
+MYSQL_PASSWORD=password
+MYSQL_DBNAME=db_test
+MYSQL_CHARSET=utf8
+MYSQL_PORT=3306
+
+# SECRET_KEY
+SECRET_KEY=dfksdkfksdjshjdhsdkgsdgjsdoe
